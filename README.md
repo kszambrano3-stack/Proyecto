@@ -6,9 +6,9 @@ Proyecto ABP de la Unidad 1 (Lógica proposicional y funcional) de **Modelos Dis
 
 ## Integrantes
 
-- Pierina Tandazo Carchi
+- Jordy Jair Muela Mera
 - Kleber Samir Zambrano Mena
-- (agregar aquí a los demás integrantes del grupo)
+
 
 ## El problema que resuelve
 
