@@ -4,7 +4,7 @@ Aplicación de escritorio en Python que **comprueba si dos versiones de una mism
 
 Proyecto ABP de la Unidad 1 (Lógica proposicional y funcional) de **Modelos Discretos para la Ingeniería**, Universidad de las Fuerzas Armadas ESPE, NRC 32798, docente Ing. Javier Cevallos, Mgtr.
 
-## Integrantes
+## Integrantes (Grupo 3)
 
 - Jordy Jair Muela Mera
 - Kleber Samir Zambrano Mena
